@@ -1,0 +1,6 @@
+C:\Users\Jeff\Downloads\BIT 142\Assignment 2\A3_Date_Starter\A3_Date\obj\x86\Debug\A3_Date.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Downloads\BIT 142\Assignment 2\A3_Date_Starter\A3_Date\bin\Debug\A3_Date.exe
+C:\Users\Jeff\Downloads\BIT 142\Assignment 2\A3_Date_Starter\A3_Date\bin\Debug\A3_Date.pdb
+C:\Users\Jeff\Downloads\BIT 142\Assignment 2\A3_Date_Starter\A3_Date\bin\Debug\MyDate.dll
+C:\Users\Jeff\Downloads\BIT 142\Assignment 2\A3_Date_Starter\A3_Date\obj\x86\Debug\A3_Date.exe
+C:\Users\Jeff\Downloads\BIT 142\Assignment 2\A3_Date_Starter\A3_Date\obj\x86\Debug\A3_Date.pdb
